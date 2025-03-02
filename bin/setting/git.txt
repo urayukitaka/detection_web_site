@@ -1,0 +1,7 @@
+remote repository
+https://github.com/urayukitaka/detection_web_site.git
+
+ssh
+dir : C:\Users\yktkk\.ssh
+key : id_ed25519.pub
+pass : ura1210
